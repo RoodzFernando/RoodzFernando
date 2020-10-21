@@ -19,7 +19,12 @@ A remote Full-Stack web-developer seeking for the next adventure of his life.
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roodzfernando)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stay in touch!
-![Twitter URL](https://img.shields.io/twitter/url?color=grey&label=Roodz%20Fernando&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FRoodzFernando)
+
+<a href="https://twitter.com/RoodzFernando">
+  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=grey&label=Roodz%20Fernando&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FRoodzFernando">
+</a>
+
+
 <!--
 **RoodzFernando/RoodzFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
