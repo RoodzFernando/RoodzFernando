@@ -1,5 +1,5 @@
 ### Hi there 👋
-api/pin?username=roodzfernando&repo=github-readme-stats
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=roodzfernando&repo=github-readme-stats)](https://github.com/roodzfernando/github-readme-stats)
 <!--
 **RoodzFernando/RoodzFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
