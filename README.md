@@ -3,6 +3,7 @@
 ### A remote Full-Stack web-developer seeking for the next adventure of his life.
 ### I enjoy learning new things and connecting with people across a range of industries. If you ever want ### to bounce ideas off of me, please feel free to reach out.
 <br>
+
 # More info about Me.
 
 ```js
@@ -16,11 +17,11 @@
 }
 ```
 
-## Stats
+# Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roodzfernando&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-### Where to find me!
+# Where to find me!
 
 <a href="https://twitter.com/RoodzFernando">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=grey&label=Roodz%20Fernando&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FRoodzFernando">
