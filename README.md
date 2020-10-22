@@ -1,27 +1,37 @@
-### Hi I am Roodz Fernando 👋
+# Hi I am Roodz Fernando 👋
 
-A remote Full-Stack web-developer seeking for the next adventure of his life.
+### A remote Full-Stack web-developer seeking for the next adventure of his life.
+### I enjoy learning new things and connecting with people across a range of industries. If you ever want ### to bounce ideas off of me, please feel free to reach out.
+<br>
+# More info about Me.
 
-#### More info about Me.
-<!-- ```js
-  const eliVillalejos = {
+```js
+  const roodzFernando = {
   lookingFor: "Full-stack web developer" || "Front-end developer",
-  pronouns: ["she", "her"],
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-  Tailwind CSS],
-  askMeAbout: [Chihuahuas, The 1975, food recipes, renovation shows],
-  challenge: "I am learning typescript",
-  funFacts: ['I have 1.5 years of remote work experience with devs 
-  from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
+  skills: {
+    frameworks: [Ruby on Rails, React],
+    others: [HTML/CSS, Bootstrap, Redux, Webpack, Javascript, Ruby],
+    databases: [SQL, PostGreSQL, SQLite],
+  }
 }
-``` -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roodzfernando)](https://github.com/anuraghazra/github-readme-stats)
+```
 
-### Stay in touch!
+## Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roodzfernando&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+### Where to find me!
 
 <a href="https://twitter.com/RoodzFernando">
   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=grey&label=Roodz%20Fernando&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FRoodzFernando">
+</a>
+
+<a href="https://www.linkedin.com/in/roodz-fernando-fleurant/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
+</a>
+
+<a href="https://medium.com/@fleurantrfernando">
+  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" >
 </a>
 
 
