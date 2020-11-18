@@ -2,7 +2,7 @@
 
 ### A remote Full-Stack web-developer seeking his next adventure.
 ### I enjoy learning new things and connecting with people across a range of industries. If you ever want 
-### to bounce ideas off of me, please feel free to reach out.
+### to bounce ideas off of me, please feel free to reach out. I am available for freelancing/remote work.
 <br>
 
 # More info about Me.
