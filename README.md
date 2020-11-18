@@ -1,7 +1,8 @@
 # Hi I am Roodz Fernando 👋
 
-### A remote Full-Stack web-developer seeking for the next adventure of his life.
-### I enjoy learning new things and connecting with people across a range of industries. If you ever want ### to bounce ideas off of me, please feel free to reach out.
+### A remote Full-Stack web-developer seeking his next adventure.
+### I enjoy learning new things and connecting with people across a range of industries. If you ever want 
+### to bounce ideas off of me, please feel free to reach out.
 <br>
 
 # More info about Me.
