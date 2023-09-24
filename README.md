@@ -11,9 +11,9 @@
   const roodzFernando = {
   lookingFor: "Full-stack web developer" || "Front-end developer",
   skills: {
-    frameworks: [Ruby on Rails, React],
+    frameworks: [Ruby on Rails, React, React Native],
     others: [HTML/CSS, Bootstrap, Redux, Webpack, Javascript, Ruby],
-    databases: [SQL, PostGreSQL, SQLite],
+    databases: [SQL, PostGreSQL, SQLite, Prisma],
   }
 }
 ```
