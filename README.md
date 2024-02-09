@@ -12,8 +12,8 @@
   lookingFor: "Full-stack web developer" || "Front-end developer",
   skills: {
     frameworks: [Ruby on Rails, React, React Native],
-    others: [HTML/CSS, Bootstrap, Redux, Webpack, Javascript, Ruby],
-    databases: [SQL, PostGreSQL, SQLite, Prisma],
+    others: [HTML/CSS, Bootstrap, Redux, Webpack, Javascript, Ruby, TypeScript, GraphQL],
+    databases: [SQL, PostgreSQL, SQLite, Prisma, MongoDB],
   }
 }
 ```
