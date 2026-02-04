@@ -18,10 +18,6 @@
 }
 ```
 
-# Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=roodzfernando&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 # Where to find me!
 
 <a href="https://twitter.com/RoodzFernando">
