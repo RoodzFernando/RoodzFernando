@@ -9,7 +9,7 @@
 
 ```js
   const roodzFernando = {
-  lookingFor: "Full-stack web developer" || "Front-end developer",
+  lookingFor: "Full-stack web developer" || "Front-end developer" || "Data Analyst",
   skills: {
     frameworks: [Ruby on Rails, React, React Native],
     others: [HTML/CSS, Bootstrap, Redux, Webpack, Javascript, Ruby, TypeScript, GraphQL],
